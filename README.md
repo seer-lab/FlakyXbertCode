@@ -1,6 +1,5 @@
 # FlakyXbert: Flaky Test Detection and Classification Framework
 
-*An anonymized submission for ICST 2025*
 
 ## Overview
 
